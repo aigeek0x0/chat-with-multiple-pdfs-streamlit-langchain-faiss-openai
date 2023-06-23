@@ -2,7 +2,9 @@
 
 ## Introduction
 ------------
-The MultiPDF Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
+The Chat with Multiple PDF Files App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
+
+[Detailed Langchain Tutorial Here](https://medium.com/@_aigeek/unlocking-the-power-of-langchain-building-applications-with-large-language-models-e834e5f50acb)
 
 
 ## Demo
@@ -14,7 +16,7 @@ The MultiPDF Chat App is a Python application that allows you to chat with multi
 ## How It Works
 ------------
 
-![MultiPDF Chat App Diagram](./docs/PDF-LangChain.jpg)
+![Chat with Multiple PDF Files App Diagram](./docs/PDF-LangChain.jpg)
 
 The application follows these steps to provide responses to your questions:
 
@@ -45,9 +47,9 @@ To install the MultiPDF Chat App, please follow these steps:
 -----
 To use the MultiPDF Chat App, follow these steps:
 
-1. Ensure that you have installed the required dependencies and added the OpenAI API key to the `.env` file.
+1. Ensure that you have installed the required dependencies and added the OpenAI API key to app.py.
 
-2. Run the `main.py` file using the Streamlit CLI. Execute the following command:
+2. Run the `app.py` file using the Streamlit CLI. Execute the following command:
    ```
    streamlit run app.py
    ```
