@@ -66,7 +66,7 @@ This repository is intended for educational purposes and does not accept further
 
 ## License
 -------
-The MultiPDF Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
+The Chat with Multiple PDF Files App is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Attribution
 
