@@ -68,6 +68,6 @@ The MultiPDF Chat App is released under the [MIT License](https://opensource.org
 
 ## Attribution
 
-This repo was forked from ![alejandro-ao](https://github.com/alejandro-ao/ask-multiple-pdfs).
+This repo was forked from [alejandro-ao](https://github.com/alejandro-ao/ask-multiple-pdfs).
 
 
